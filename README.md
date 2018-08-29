@@ -1,2 +1,2 @@
-# Webview_repo
-Code snippet for webview sturvz
+# Hybridz_repo
+Code snippet for cordova apps
